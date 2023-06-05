@@ -1,3 +1,5 @@
 function showTime(){
-alert("hellow")
+const now=new date()
+alert(now.toLocalstring)
+
 }
